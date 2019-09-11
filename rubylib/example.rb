@@ -1,6 +1,3 @@
-require "respec"
-require_relative "say_hello_ten_times"
-
 def say_hello_ten_times
   phrase = "Hello World!"
   puts phrase
@@ -14,4 +11,3 @@ def say_hello_ten_times
   puts phrase 
   puts phrase 
 end 
-
